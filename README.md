@@ -1,4 +1,4 @@
-# fractal-explorer-for-atari-st
+# The Fractal Engine v3 - a Fractal explorer for the Atari ST
 Source code listing for the Fractal Engine 3 written in GFA BASIC 3
 
 Many years ago I co-wrote, with Daniel Grace, a very complete Mandlebrot and Julia set explorer for the Atari ST.  
